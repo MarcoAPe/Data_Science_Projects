@@ -1,7 +1,7 @@
 # Data_Science_Projects
-This repository contains every project developed in Data Science and AI Bootcamp by U-Camp
+This repository contains every project developed in the Data Science and AI Bootcamp by U-Camp
 
-## Module 2 tools:: Pandas, Numpy, Seaborn, Matplotlib usage for data analytics and visualizations.
+## Module 2 tools: Pandas, Numpy, Seaborn, Matplotlib usage for data analytics and visualizations.
 Description: In this project we analized two small Mobile selling datasets to answer basic querys and then made visualizations to better explain them.
 
 [Project 1: Python for Data Science](https://github.com/MarcoAPe/Data_Science_Projects/blob/main/Proyecto_M1_Python_para_Ciencia_de_Datos.ipynb)

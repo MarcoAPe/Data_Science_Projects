@@ -10,3 +10,8 @@ Description: In this project we analized two small Mobile selling datasets to an
 Description: In this project we worked on a loan data set, first doing an exploratory analysis of the data, dealing with missing values and outliers, transforming categorical values, scaling and finally reducing dimensions for modeling.
 
 [Project 2: Data cleaning and data preprocessing](https://github.com/MarcoAPe/Data_Science_Projects/blob/main/Proyecto_M2_Limpieza_y_preprocesado_de_datos.ipynb)
+
+## Module 3 tools: Sklearn preprocessing, Linear and Non-linear regression models, Scores, Categorical models.
+Desription: In this project we worked on Human Resources dataset, to first predict the salary of an employee based on education, years of experience, work position and number of children as a regression model, and second predict whether or not an applicant would stay in a position based on the rest of the variables.
+
+[Project 3: Regression and Clasiffication Prediction Model deisgn](https://github.com/MarcoAPe/Data_Science_Projects/blob/main/Proyecto_M3_Modelado_Supervisado.ipynb)

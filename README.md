@@ -23,4 +23,4 @@ This repository contains every project developed in the Data Science and AI Boot
 - Description: In this project, we worked on a customer dataset that offered information such as salary, credit card limit, and type of credit possession to classify them into categories. These categories can be used to target them better when offering services and products.
 - Tools: Sklearn preprocessing, clustering models and clustering tools.
 
-[Project 4: Type of clients classification](https://github.com/MarcoAPe/Data_Science_Projects/blob/main/Proyecto_M4_Modelado_no_supervisado.ipynb)
+[Project 4: Type of clients classification (Marketing/Customer service)](https://github.com/MarcoAPe/Data_Science_Projects/blob/main/Proyecto_M4_Modelado_no_supervisado.ipynb)
